@@ -32,7 +32,7 @@ Using a pre-trained neural network, the application processes user-drawn images 
 ### Prerequisites
 To run this project, you need:
 * Python 3.8+
-* Recommended to use a virtual environment ()`venv`) to manage dependencies 
+* Recommended to use a virtual environment (`venv`) to manage dependencies 
 
 ### Running the Application
 
